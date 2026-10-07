@@ -1,2 +1,0 @@
-# Servidor
-atm 10
