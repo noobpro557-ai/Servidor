@@ -1,6 +1,10 @@
 {
   "extraKnownMarketplaces": {
-    "mods-do-projeto": { "source": { "source": "directory", "path": "./mods" } }
+    "mods-do-projeto": { "source": { "source": "directory", "path": "./mods" } },
+    "addy-agent-skills": { "source": { "source": "github", "repo": "addyosmani/agent-skills" } }
   },
-  "enabledPlugins": { "previsao-do-contexto@mods-do-projeto": true }
+  "enabledPlugins": {
+    "previsao-do-contexto@mods-do-projeto": true,
+    "agent-skills@addy-agent-skills": true
+  }
 }
