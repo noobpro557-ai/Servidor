@@ -1,0 +1,1 @@
+{ "name": "mods-do-projeto", "owner": { "name": "noobpro557" }, "plugins": [{ "name": "previsao-do-contexto", "source": "./previsao-do-contexto" }] }

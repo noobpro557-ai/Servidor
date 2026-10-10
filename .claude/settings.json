@@ -1,0 +1,6 @@
+{
+  "extraKnownMarketplaces": {
+    "mods-do-projeto": { "source": { "source": "directory", "path": "./mods" } }
+  },
+  "enabledPlugins": { "previsao-do-contexto@mods-do-projeto": true }
+}

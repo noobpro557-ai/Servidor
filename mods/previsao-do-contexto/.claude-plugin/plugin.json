@@ -1,0 +1,1 @@
+{ "name": "previsao-do-contexto", "version": "0.1.0", "description": "Previsão do tempo da janela de contexto, numa linha acima do prompt.", "types": "./types/index.d.ts" }
